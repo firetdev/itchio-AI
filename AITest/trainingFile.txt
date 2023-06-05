@@ -1,0 +1,6 @@
+FPS:73;5
+Horror:75;7
+Platformer:77;6
+RPG:56;4
+2D:72;5
+CHANGE8
