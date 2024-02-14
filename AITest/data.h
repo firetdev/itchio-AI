@@ -3,8 +3,7 @@
 #include <vector>
 #include <string>
 
-class Data
-{
+class Data {
 public:
 	std::string name;
 	float score;
@@ -13,8 +12,7 @@ public:
 	Data(std::string);
 };
 
-Data::Data(std::string title)
-{
+Data::Data(std::string title) {
 	name = title;
 	number = 0;
 	score = 0;
